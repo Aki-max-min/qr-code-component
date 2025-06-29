@@ -1,3 +1,9 @@
+---
+noteId: "cf3f754054bd11f0a4ff1b47aa2e114c"
+tags: []
+
+---
+
 # Front-end Style Guide
 
 ## Layout
